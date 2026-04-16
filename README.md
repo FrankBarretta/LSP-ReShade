@@ -54,3 +54,34 @@ Settings are persisted in `addons/config.json` and restored on next launch.
 
 - LosslessProxy v0.3.0+
 - ReShade installed on the target game
+
+
+
+
+
+## ⚠️ Disclaimer
+
+This add-on is an unofficial extension for Lossless Scaling.
+
+It is NOT affiliated with, endorsed by, or supported by
+Lossless Scaling Developers in any way.
+
+This add-on was developed through independent analysis and
+reverse engineering of the software behavior. No proprietary
+source code or assets are included.
+
+Use at your own risk.
+
+The author assumes no responsibility for any damage, data loss,
+account bans, or other consequences resulting from the use of
+this add-on.
+
+This add-on may interact with the software at runtime in
+non-documented ways.
+
+
+## Legal Notice / Trademarks
+
+All trademarks, product names, and company names are the property
+of their respective owners and are used for identification purposes only.
+
