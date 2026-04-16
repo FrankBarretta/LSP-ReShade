@@ -1,0 +1,9 @@
+{
+    "name": "ReShade Input Passthrough",
+    "version": "0.3.0",
+    "author": "LosslessProxy Team",
+    "description": "Enables mouse and keyboard interaction with ReShade overlays on top of Lossless Scaling. Toggle input passthrough with a configurable hotkey.",
+    "min_host_version": "0.3.0",
+    "dependencies": [],
+    "tags": ["reshade", "input", "overlay", "post-processing"]
+}
